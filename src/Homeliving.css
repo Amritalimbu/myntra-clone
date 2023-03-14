@@ -1,0 +1,12 @@
+.homediv{
+    display: grid;
+    grid-template-columns: 300px 300px 300px;
+    grid-template-rows: 370px;
+    gap:100px;
+    margin: 60px;
+    text-align: center;
+}
+#sofa{
+    height: 400px;
+    width: 350px;
+}

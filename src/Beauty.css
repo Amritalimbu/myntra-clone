@@ -1,0 +1,13 @@
+#beautyimg{
+    height: 350px;
+}
+.beautydiv{
+    display: grid;
+    grid-template-columns: 300px 300px 300px;
+    grid-template-rows: 380px 380px 380px;
+    column-gap: 80px;
+    row-gap: 80px;
+    margin-top: 40px;
+    margin-left: 85px;
+    text-align: center;
+}

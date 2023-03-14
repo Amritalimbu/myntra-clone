@@ -1,0 +1,25 @@
+.maindiv{
+    display: grid;
+    grid-template-columns: repeat(3, 1fr);
+    column-gap: 30px;
+    row-gap: 50px;
+    text-align: center;
+    margin-top: 50px;
+    width: 90vw;
+    margin-left: 60px;
+}
+.img{
+    align-items: center;
+    width: 280px;
+    height: 310px;
+}
+
+.p{
+   border-bottom: none;
+
+
+}
+.p2{
+    /* border: 1px solid;  */
+    border-top: none;
+}
